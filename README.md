@@ -37,7 +37,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Email: Your Email
+- LinkedIn:www.linkedin.com/in/rishabh-thakur-87373b39a
+- Email: rishabhthakur4637@gmail.com
 
 ---

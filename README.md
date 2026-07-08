@@ -6,29 +6,33 @@
 Passionate about transforming raw data into meaningful insights through dashboards, analytics, and business intelligence.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabhthakur4637-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 📊 Aspiring Data Analyst
-- 🌱 Currently learning Data Analytics & Data Science
+- 🌱 Currently learning Data Analytics, Data Science & Machine Learning
 - 💼 Looking for Data Analyst Internship / Full-Time Opportunities
-- 📈 Passionate about Business Intelligence & Data Visualization
-- 🚀 Always learning new technologies
+- 📈 Passionate about Data Visualization & Business Intelligence
+- 🚀 Continuously improving my analytical and problem-solving skills
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
 ### 📊 Data Analytics Tools
 
 - Microsoft Excel
-- Power BI
 - SQL (MySQL)
+- Power BI
 - Python
 - Pandas
 - NumPy
@@ -40,9 +44,9 @@ Passionate about transforming raw data into meaningful insights through dashboar
 
 ### ☕ Coffee Shop Sales Dashboard
 - Interactive Excel Dashboard
-- KPI Analysis
-- Sales Trend Analysis
+- Sales Analysis
 - Customer Footfall Analysis
+- KPI Dashboard
 
 ### 🛒 Retail Sales Analysis
 - Excel
@@ -51,26 +55,26 @@ Passionate about transforming raw data into meaningful insights through dashboar
 - Power BI
 
 ### 🎬 Netflix Content Analysis Dashboard
-- Power BI Dashboard
+- Interactive Power BI Dashboard
 - Genre Analysis
-- Country Analysis
 - Rating Analysis
+- Country-wise Analysis
 
 ### 🗳️ Tamil Nadu Election Dashboard
-- Power BI Dashboard
-- Constituency Analysis
+- Constituency-wise Analysis
 - Party Performance
 - Vote Share Analysis
+- Interactive Power BI Dashboard
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced SQL
-- Power BI (DAX)
+- Power BI (DAX & Power Query)
 - Python for Data Analysis
 - Statistics
-- Machine Learning Basics
+- Machine Learning
 
 ---
 
@@ -84,7 +88,7 @@ Passionate about transforming raw data into meaningful insights through dashboar
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabhthakur4637-ui&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhthakur4637-ui&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 ---
@@ -92,7 +96,7 @@ Passionate about transforming raw data into meaningful insights through dashboar
 ## 💻 Most Used Languages
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhthakur4637-ui&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhthakur4637-ui&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 ---
@@ -100,23 +104,7 @@ Passionate about transforming raw data into meaningful insights through dashboar
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rishabhthakur4637-ui&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishabhthakur4637-ui&theme=onedark&row=1&column=7"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rishabhthakur4637-ui&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://streak-stats.demolab.com?user=rishabhthakur4637-ui&theme=github-dark-blue" />
 </p>
 
 ---
@@ -124,14 +112,32 @@ Passionate about transforming raw data into meaningful insights through dashboar
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhthakur4637-ui&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhthakur4637-ui&theme=github-dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhthakur4637-ui&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-> 🚧 Coming Soon! (We'll enable this with GitHub Actions.)
+> 🚧 Coming Soon! We'll enable this using GitHub Actions after your profile and projects are complete.
+
+---
+
+## 📌 Goals for 2026
+
+- ✅ Build 10+ Data Analytics Projects
+- ✅ Master SQL & Power BI
+- ✅ Improve Python for Data Analysis
+- ✅ Learn Machine Learning Fundamentals
+- ✅ Secure a Data Analyst Role
 
 ---
 

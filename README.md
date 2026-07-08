@@ -83,18 +83,6 @@ Passionate about transforming raw data into meaningful insights through dashboar
 
 ---
 
-## 📊 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=rishabhthakur4637-ui&show_icons=true&theme=tokyonight
-
----
-
-## 💻 Most Used Languages
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhthakur4637-ui&layout=compact&theme=tokyonight
-
----
-
 ## 🔥 GitHub Streak
 
 https://streak-stats.demolab.com/?user=rishabhthakur4637-ui&theme=tokyonight

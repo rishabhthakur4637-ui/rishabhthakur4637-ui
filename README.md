@@ -85,25 +85,19 @@ Passionate about transforming raw data into meaningful insights through dashboar
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhthakur4637-ui&show_icons=true&theme=github_dark&cache_seconds=1800" />
-</p>
+https://github-readme-stats.vercel.app/api?username=rishabhthakur4637-ui&show_icons=true&theme=tokyonight
 
 ---
 
 ## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhthakur4637-ui&layout=compact&theme=github_dark&cache_seconds=1800" />
-</p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhthakur4637-ui&layout=compact&theme=tokyonight
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishabhthakur4637-ui&theme=github-dark-blue" />
-</p>
+https://streak-stats.demolab.com/?user=rishabhthakur4637-ui&theme=tokyonight
 
 ---
 

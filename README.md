@@ -51,8 +51,6 @@ Passionate about transforming raw data into meaningful insights through dashboar
 ### 🛒 Retail Sales Analysis
 - Excel
 - SQL
-- Python
-- Power BI
 
 ### 🎬 Netflix Content Analysis Dashboard
 - Interactive Power BI Dashboard
